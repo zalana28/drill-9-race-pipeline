@@ -1,0 +1,1 @@
+{"description":"Drill #9 — FCFS slot-claim race pipeline simulator (zero dependencies)","engines":{"node":">=22"},"name":"slotrace","scripts":{"board":"node src/board.js","claimer":"node src/claimer.js","dry-run":"node scripts/dry-run.js","test":"node --test tests/slotrace.test.js"},"type":"commonjs","version":"1.0.0"}

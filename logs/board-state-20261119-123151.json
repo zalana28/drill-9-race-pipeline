@@ -1,0 +1,305 @@
+{
+  "generatedAt": 1795091745631,
+  "slots": [
+    {
+      "id": "slot-1",
+      "seq": 1,
+      "openedAt": 1795091517290,
+      "validUntil": 1795091519290,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-2",
+      "seq": 2,
+      "openedAt": 1795091524953,
+      "validUntil": 1795091526953,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-3",
+      "seq": 3,
+      "openedAt": 1795091533434,
+      "validUntil": 1795091535434,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-4",
+      "seq": 4,
+      "openedAt": 1795091543923,
+      "validUntil": 1795091545923,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-5",
+      "seq": 5,
+      "openedAt": 1795091550381,
+      "validUntil": 1795091552381,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-6",
+      "seq": 6,
+      "openedAt": 1795091558239,
+      "validUntil": 1795091560239,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-7",
+      "seq": 7,
+      "openedAt": 1795091565613,
+      "validUntil": 1795091567613,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-8",
+      "seq": 8,
+      "openedAt": 1795091572490,
+      "validUntil": 1795091574490,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 2
+    },
+    {
+      "id": "slot-9",
+      "seq": 9,
+      "openedAt": 1795091580678,
+      "validUntil": 1795091582678,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-10",
+      "seq": 10,
+      "openedAt": 1795091588285,
+      "validUntil": 1795091590285,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-11",
+      "seq": 11,
+      "openedAt": 1795091596009,
+      "validUntil": 1795091598009,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-12",
+      "seq": 12,
+      "openedAt": 1795091604323,
+      "validUntil": 1795091606323,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-13",
+      "seq": 13,
+      "openedAt": 1795091609723,
+      "validUntil": 1795091611723,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-14",
+      "seq": 14,
+      "openedAt": 1795091618331,
+      "validUntil": 1795091620331,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-15",
+      "seq": 15,
+      "openedAt": 1795091624314,
+      "validUntil": 1795091626314,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-16",
+      "seq": 16,
+      "openedAt": 1795091629668,
+      "validUntil": 1795091631668,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-17",
+      "seq": 17,
+      "openedAt": 1795091639490,
+      "validUntil": 1795091641490,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-18",
+      "seq": 18,
+      "openedAt": 1795091646943,
+      "validUntil": 1795091648943,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-19",
+      "seq": 19,
+      "openedAt": 1795091653266,
+      "validUntil": 1795091655266,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-20",
+      "seq": 20,
+      "openedAt": 1795091661266,
+      "validUntil": 1795091663266,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-21",
+      "seq": 21,
+      "openedAt": 1795091667805,
+      "validUntil": 1795091669805,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-22",
+      "seq": 22,
+      "openedAt": 1795091676157,
+      "validUntil": 1795091678157,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-23",
+      "seq": 23,
+      "openedAt": 1795091687078,
+      "validUntil": 1795091689078,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-24",
+      "seq": 24,
+      "openedAt": 1795091693593,
+      "validUntil": 1795091695593,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-25",
+      "seq": 25,
+      "openedAt": 1795091698711,
+      "validUntil": 1795091700711,
+      "status": "cancelled",
+      "cancelledAt": 1795091698927,
+      "claimCount": 0,
+      "attempts": 1
+    },
+    {
+      "id": "slot-26",
+      "seq": 26,
+      "openedAt": 1795091708149,
+      "validUntil": 1795091710149,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 2
+    },
+    {
+      "id": "slot-27",
+      "seq": 27,
+      "openedAt": 1795091715949,
+      "validUntil": 1795091717949,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-28",
+      "seq": 28,
+      "openedAt": 1795091725371,
+      "validUntil": 1795091727371,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-29",
+      "seq": 29,
+      "openedAt": 1795091736278,
+      "validUntil": 1795091738278,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    },
+    {
+      "id": "slot-30",
+      "seq": 30,
+      "openedAt": 1795091742629,
+      "validUntil": 1795091744629,
+      "status": "claimed",
+      "cancelledAt": null,
+      "claimCount": 1,
+      "attempts": 1
+    }
+  ]
+}
